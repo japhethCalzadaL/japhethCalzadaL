@@ -25,6 +25,8 @@ Te comparto tecnologías que utilizo
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  <img src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="SymfonyInsight Grade" src="https://img.shields.io/symfony/i/grade/:projectUuid">
+
 </p>
  <!--
 **japhethCalzadaL/japhethCalzadaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
