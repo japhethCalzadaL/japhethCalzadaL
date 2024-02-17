@@ -1,5 +1,4 @@
 ### ¡Hola a todos! 👋
-<img src= "https://media-exp1.licdn.com/dms/image/C4E16AQERfoFiffaV7A/profile-displaybackgroundimage-shrink_350_1400/0/1629783666433?e=1635379200&v=beta&t=iM3o_ft10XCHvi5yyqzYYxy0StIIu-Qf9-lGax8gRbA">
 
 Hola mi nombre es Japheth Calzada López, soy desarrollador Back end con experiencia en los lenguajes de Ruby on Rails, Python, PHP, Javascript, soy estudiante activo en Platzi.
 
