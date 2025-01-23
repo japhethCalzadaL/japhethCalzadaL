@@ -6,7 +6,14 @@ Me gusta resolver y optimizar procesos mediante la tecnología, me gusta trabaja
 
 Te comparto mis redes donde podremos estar en contacto
 
-<a href="https://www.linkedin.com/in/japheth-calzada-l%C3%B3pez-b705bb19"> LinkedIn </a>
+<div id="badges">
+ <a href="[https://www.linkedin.com/in/shaunak-chandra-6b3363215/](https://www.linkedin.com/in/japheth-calzada-l%C3%B3pez-b705bb19)">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="mailto:japhethcalzada@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+ </a>
+</div>
 
 Te comparto tecnologías que utilizo 
 <p align="center">
